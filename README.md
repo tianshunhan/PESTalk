@@ -3,7 +3,7 @@
 
 <img src="./PESTalk.png" /> 
 
-> PESTalk dynamically selects optimal expressions by analyzing emotions and voiceprints, generating realistic 3D animations with personalized styles.
+> While prior work treats emotion as one-hot embeddings, producing averaged facial expressions that ignore the personalized emotional styles influenced by habitual behaviors and cultural backgrounds, PESTalk dynamically selects optimal expressions by analyzing emotions and voiceprints to generate realistic 3D animations with personalized styles.
 
 
 
