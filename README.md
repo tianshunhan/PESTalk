@@ -27,6 +27,7 @@ If you use this dataset, please consider citing
 ## Acknowledgement
 - [Wav2Vec2 Content](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-english) for audio content
 - [Wav2Vec2 Emotion](https://huggingface.co/r-f/wav2vec-english-speech-emotion-recognition) for audio emotion
+- [Pyannote](https://huggingface.co/pyannote/embedding) for voiceprint information extraction
 - [Faceformer](https://github.com/EvelynFan/FaceFormer) and [EmoTalk](https://github.com/ZiqiaoPeng/EmoTalk) for training pipeline
 
 ## Contact
