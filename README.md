@@ -22,6 +22,14 @@ If you use this dataset, please consider citing
   year={2024},
   publisher={IEEE}
 }
+
+@inproceedings{han2025pestalk,
+  title={PESTalk: Speech-Driven 3D Facial Animation with Personalized Emotional Styles},
+  author={Han, Tianshun and Zhou, Benjia and Liu, Ajian and Liang, Yanyan and Zhang, Du and Lei, Zhen and Wan, Jun},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={7893--7901},
+  year={2025}
+}
 ```
 
 ## Acknowledgement
